@@ -2,8 +2,8 @@
 
 ## 目录
 
-- [我们先来了解一下我的世界1.7.10版本](#我们先来了解一下我的世界1.7.10版本)
-- [mod开发的前置——配置工作环境](#mod开发的前置——配置工作环境)
+- [我们先来了解一下我的世界1.7.10版本](###我们先来了解一下我的世界1.7.10版本)
+- [mod开发的前置——配置工作环境](###mod开发的前置——配置工作环境)
 - 
 
 ### **我们先来了解一下我的世界1.7.10版本**
@@ -14,9 +14,9 @@
 
 **目录**
 
-- [构建forge](#构建forge)
-- [下载idea](#接下来去下载idea吧)
-- [安装一些idea的插件](#这个时候我们要安装一些idea的插件)
+- [构建forge](####构建forge)
+- [下载idea](####接下来去下载idea吧)
+- [安装一些idea的插件](####这个时候我们要安装一些idea的插件)
 
 ~~悄悄告诉你们，有想法的萌新大部分都死在这了QwQ~~
 
@@ -48,7 +48,8 @@ forge为开发者们提供了开发mod的平台，但是由于Gradle的资源都
 
 
 
-![img](https://i0.hdslb.com/bfs/article/b4451d6383c82575f1d23cbb43bce7c1beb8ced1.png)																									5.下载失败
+![img](https://i0.hdslb.com/bfs/article/b4451d6383c82575f1d23cbb43bce7c1beb8ced1.png)																									
+5.下载失败
 
 看吧，你是不是也在这里面（提前真实）（你不在啊，那发给我QAQ）
 
@@ -70,11 +71,13 @@ forge为开发者们提供了开发mod的平台，但是由于Gradle的资源都
 
 **下载完之后把它解压到对应文件夹，打开forge-1.7.10-10.13.4.1614-1.7.10-src，就像这样：**
 
-![img](https://i0.hdslb.com/bfs/article/88fb0167be8bfad2f4aefa11698e282a9cf3e0da.png)打开forge-1.7.10-10.13.4.1614-1.7.10-src
+![img](https://i0.hdslb.com/bfs/article/88fb0167be8bfad2f4aefa11698e282a9cf3e0da.png)
+打开forge-1.7.10-10.13.4.1614-1.7.10-src
 
 **然后shift+右键文件夹里面的任意空位：**
 
-![img](https://i0.hdslb.com/bfs/article/bc5f6c3ae92803358982a2fa07904744ce9d158f.jpg)在forge-1.7.10-10.13.4.1614-1.7.10-src中打开cmd
+![img](https://i0.hdslb.com/bfs/article/bc5f6c3ae92803358982a2fa07904744ce9d158f.jpg)
+在forge-1.7.10-10.13.4.1614-1.7.10-src中打开cmd
 
 **然后在cmd里面输入下面指令（显示BUILD SUCCESSFUL之后就下一条） ：**
 
@@ -108,7 +111,8 @@ gradlew.bat idea
 
 https://www.jetbrains.com/idea/
 
-![img](https://i0.hdslb.com/bfs/article/7290fac09c505be7aceb1102729b747c493d59d4.png)idea免费版
+![img](https://i0.hdslb.com/bfs/article/7290fac09c505be7aceb1102729b747c493d59d4.png)
+idea免费版
 
 剩下的。。。阿巴阿巴阿巴阿巴（不想写了，淦）
 
@@ -116,11 +120,13 @@ https://www.jetbrains.com/idea/
 
 **安装完成之后先不要打开idea，回到这个目录：**
 
-![img](https://i0.hdslb.com/bfs/article/5e48cfe22325bafe4828171dab2bb83127fa86c9.png)打开巴拉巴拉巴拉.ipr
+![img](https://i0.hdslb.com/bfs/article/5e48cfe22325bafe4828171dab2bb83127fa86c9.png)
+打开巴拉巴拉巴拉.ipr
 
 **双击打开这个文件，选择用idea运行，然后就可以看到这个亚子：**
 
-![img](https://i0.hdslb.com/bfs/article/37f5d3eacd4c64295feb21dc8d19dd97f1e01f9a.png)idea
+![img](https://i0.hdslb.com/bfs/article/37f5d3eacd4c64295feb21dc8d19dd97f1e01f9a.png)
+idea
 
 **然后点右上角那个锤子看看能不能正常运行就ok了~~**
 
@@ -132,18 +138,20 @@ https://www.jetbrains.com/idea/
 
 Chinese (Simplified) Language Pack EAP
 
-中文包↑**
-**Translation
+中文包↑
+**Translation**
 
 翻译插件↑
 
 
 
-![img](https://i0.hdslb.com/bfs/article/bf02e77a9958b962ae9528a12a494bbb26292d71.png)Chinese (Simplified) Language Pack EAP
+![img](https://i0.hdslb.com/bfs/article/bf02e77a9958b962ae9528a12a494bbb26292d71.png)
+Chinese (Simplified) Language Pack EAP
 
 
 
-![img](https://i0.hdslb.com/bfs/article/fcb6b2d542907b2b668e8c2e41f8a77c0bb20363.png)Translation
+![img](https://i0.hdslb.com/bfs/article/fcb6b2d542907b2b668e8c2e41f8a77c0bb20363.png)
+Translation
 
 好了~~回到上面所示的idea界面
 
